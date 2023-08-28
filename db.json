@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "moto ABC",
+      "img": "./src/assets/img/porsche-4795517_640.jpg",
+      "id": 1
+    },
+    {
+      "name": "moto B",
+      "img": "./src/assets/img/porsche-4795517_640.jpg",
+      "id": 2
+    },
+    {
+      "name": "moto C",
+      "img": "./src/assets/img/porsche-4795517_640.jpg",
+      "id": 3
+    }
+  ]
+}
